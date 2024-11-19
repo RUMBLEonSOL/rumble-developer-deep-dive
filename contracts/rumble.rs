@@ -234,4 +234,3 @@ pub enum RumbleError {
     #[msg("Game is not active.")]
     GameNotActive,
 }
-
